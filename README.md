@@ -1,4 +1,4 @@
-# 🛡️ Pagar Kristian Panjaitan | Junior Defensive Security
+# 🛡️ Junior Defensive Security
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Learning infrastructure security baselines and documented hardening exercises.<br><br>👯 I’m looking to collaborate on<br>Basic defensive strategies, Linux configuration auditing, and network monitoring setups.<br><br>🤝 I’m looking for help with<br>Deepening my practical knowledge in firewall deployment and analyzing security log signatures.<br><br>🌱 I’m currently learning<br>Junior Cybersecurity Analyst path on Hack The Box Academy & basic network management.<br><br>💬 Ask me about<br>My experience setting up basic local server restrictions and managing host-level firewalls.<br><br>⚡ Fun fact<br>I chose the Blue Team path because breaking things is fun, but learning how to shield and protect them properly is where the real engineering begins.
