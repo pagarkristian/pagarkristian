@@ -64,6 +64,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=pagarkristian&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<div align="center">
-  <sub>Proudly maintained by <b>pagarkristian</b>. Visitors count: <img src="https://komarev.com/ghpvc/?username=pagarkristian&icon=5&color=7" valign="middle" /></sub>
-</div>
