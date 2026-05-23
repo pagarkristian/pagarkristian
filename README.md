@@ -60,7 +60,5 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pagarkristian&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" id="gh-langs" />
 </p>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pagarkristian&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ---
