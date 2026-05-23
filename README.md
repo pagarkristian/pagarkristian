@@ -1,5 +1,3 @@
-# 🛡️ Pagar Kristian Panjaitan | Junior Defensive Security
-
 # 💫 About Me:
 
 <p align="left">
