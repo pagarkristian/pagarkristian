@@ -65,5 +65,5 @@
 
 ---
 <div align="center">
-  <sub>Proudly maintained by <b>pagarkristian</b>. Visitors count: <img src="https://komarev.com/ghpvc/?username=pagarkristian&icon=5&color=3" valign="middle" /></sub>
+  <sub>Proudly maintained by <b>pagarkristian</b>. Visitors count: <img src="https://komarev.com/ghpvc/?username=pagarkristian&icon=5&color=7" valign="middle" /></sub>
 </div>
