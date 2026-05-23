@@ -1,7 +1,42 @@
 # 🛡️ Pagar Kristian Panjaitan | Junior Defensive Security
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Learning infrastructure security baselines and documented hardening exercises.<br><br>👯 I’m looking to collaborate on<br>Basic defensive strategies, Linux configuration auditing, and network monitoring setups.<br><br>🤝 I’m looking for help with<br>Deepening my practical knowledge in firewall deployment and analyzing security log signatures.<br><br>🌱 I’m currently learning<br>Junior Cybersecurity Analyst path on Hack The Box Academy & basic network management.<br><br>💬 Ask me about<br>My experience setting up basic local server restrictions and managing host-level firewalls.<br><br>⚡ Fun fact<br>I chose the Blue Team path because breaking things is fun, but learning how to shield and protect them properly is where the real engineering begins.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pagarkristian&label=PROFILE+VIEWS&color=31a8ff&style=flat-square" alt="pagarkristian views" />
+</p>
+
+---
+
+## 💫 Structural Focus & Objectives
+
+> 🛡️ **Defensive Mindset Paradigm:**
+> *I chose the Blue Team path because breaking structures is straightforward, but architecting the layers to actively shield and preserve system integrity is where real infrastructure engineering begins.*
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Direct Initiatives</h3>
+      <ul>
+        <li><b>Current Core Focus:</b> Systematically mapping infrastructure security baselines and publishing repeatable host hardening execution matrices.</li>
+        <li><b>Active Academy Trajectory:</b> Progressing through the specialized <i>Junior Cybersecurity Analyst</i> path directly inside <b>Hack The Box Academy</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Alignment & Synergy</h3>
+      <ul>
+        <li><b>Open to Collaborations:</b> Auditing structural Linux configurations, building localized network logging arrays, and staging defensive firewall posture exercises.</li>
+        <li><b>Targeted Research Needs:</b> Engineering edge perimeter traffic drops and dissecting anomalies buried deep inside application event log signatures.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💬 System Administration Interactive Profile
+* **Core Technical Dialogues:** Let's discuss mitigating web vulnerabilities (like input validation checks), locking directories down via rigid server engine configurations, and deploying host-level network filters.
+* **Management Boundaries:** Actively tracking the intersection of modular operating system defense blocks with baseline perimeter edge router rule layouts.
 
 ## 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akunkerja23128@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pagarkristian)
