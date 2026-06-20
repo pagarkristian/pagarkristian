@@ -5,18 +5,147 @@
 
 </div>
 
-<br/>
-
 <!-- PROFILE VIEWS -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pagarkristian&label=PROFILE+VIEWS&color=9b59b6&style=flat-square" />
 </p>
 
-<br/><br/>
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- TERMINAL ABOUT SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/terminal.svg" width="700"/>
+</div>
 
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- SKILLS HEADER SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_skills.svg" width="700"/>
+</div>
+
+<br/>
+
+### 🛡️ Security & OS
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=9b59b6" />
+</p>
+
+### 🐍 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=9b59b6" />
+</p>
+
+### 🔧 Tools & Infra
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/Apache-000000?style=flat-square&logo=apache&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=9b59b6" />
+</p>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- HTB PROGRESS SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/htb_progress.svg" width="700"/>
+</div>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- CPTS LEARNING SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/cpts.svg" width="700"/>
+</div>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- STATS HEADER SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_stats.svg" width="700"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pagarkristian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagarkristian&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagarkristian&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+</p>
+
+<!-- SIGMA MAN GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMAMAN.gif" width="350"/>
+</div>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- RANDOM QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- CONNECT HEADER SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_connect.svg" width="700"/>
+</div>
+
+<br/>
+
+<p align="left">
+  <a href="mailto:akunkerja23128@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=9b59b6" />
+  </a>
+  <a href="https://linkedin.com/in/pagar">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=9b59b6" />
+  </a>
+  <a href="https://purgatorie.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Personal_Web-000000?style=flat-square&logo=firefox&logoColor=9b59b6" />
+  </a>
+</p>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- STARLIGON SIGNATURE BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/starligon_banner.svg" width="700"/>
+</div>
 </div>
 
 <br/><br/>
