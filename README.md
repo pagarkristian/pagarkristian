@@ -142,10 +142,6 @@
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
 
-<!-- STARLIGON SIGNATURE BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/starligon_banner.svg" width="700"/>
-</div>
 
 <!-- FOOTER QUOTE SVG -->
 <div align="center">
