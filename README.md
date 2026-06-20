@@ -5,32 +5,42 @@
 
 </div>
 
+<br/>
+
 <!-- PROFILE VIEWS -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pagarkristian&label=PROFILE+VIEWS&color=9b59b6&style=flat-square" />
 </p>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- TERMINAL ABOUT SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/terminal.svg" width="700"/>
 </div>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- SKILLS HEADER SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_skills.svg" width="700"/>
 </div>
 
-<br/>
+<br/><br/>
 
 ### 🛡️ Security & OS
 <p>
@@ -42,12 +52,16 @@
   <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=9b59b6" />
 </p>
 
+<br/>
+
 ### 🐍 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=9b59b6" />
   <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=9b59b6" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=9b59b6" />
 </p>
+
+<br/>
 
 ### 🔧 Tools & Infra
 <p>
@@ -57,73 +71,97 @@
   <img src="https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=9b59b6" />
 </p>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- HTB PROGRESS SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/htb_progress.svg" width="700"/>
 </div>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- CPTS LEARNING SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/cpts.svg" width="700"/>
 </div>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- STATS HEADER SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_stats.svg" width="700"/>
 </div>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pagarkristian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagarkristian&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagarkristian&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 </p>
+
+<br/><br/>
 
 <!-- SIGMA MAN GIF -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMAMAN.gif" width="350"/>
 </div>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- RANDOM QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- CONNECT HEADER SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_connect.svg" width="700"/>
 </div>
 
-<br/>
+<br/><br/>
 
 <p align="left">
   <a href="mailto:akunkerja23128@gmail.com">
@@ -137,10 +175,14 @@
   </a>
 </p>
 
+<br/><br/>
+
 <!-- PULSE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
+
+<br/><br/>
 
 <!-- STARLIGON SIGNATURE BANNER -->
 <div align="center">
