@@ -78,9 +78,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagarkristian&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
-<!-- DRAGON GIF -->
+<!-- SIGMA GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/6ZSSU9FTgTkAAAAC/dragon-purple.gif" width="300" alt="dragon"/>
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMA MAN"/>
 </div>
 
 <!-- ANIMATED DIVIDER -->
