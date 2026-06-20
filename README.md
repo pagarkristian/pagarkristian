@@ -1,7 +1,7 @@
 <!-- HEADER TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=20&duration=2500&pause=400&color=9B59B6&center=true&vCenter=true&width=650&lines=whoami+%3E+pagarkristian;Cybersecurity+Student+%7C+SMK+Grade+12;HTB+Player+%40+starligon2+%7C+9+Machines+Pwned;CPTS+Path+%E2%80%94+Penetration+Tester+in+Progress;Break+Things+Ethically.+Document+Everything.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=20&duration=2500&pause=400&color=9B59B6&center=true&vCenter=true&width=650&lines=whoami+%3E+pagarkristian;Cybersecurity+Student+%7C+SMK+Grade+12;HTB+Player+%40+starligon2+%7C+9+Machines+Pwned;CPTS+Path+%E2%80%94+Penetration+Tester+in+Progress;Unleash+The+Fool.+Build+The+Legacy+%7E+starligon)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,18 +10,27 @@
   <img src="https://komarev.com/ghpvc/?username=pagarkristian&label=PROFILE+VIEWS&color=9b59b6&style=flat-square" />
 </p>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
 
-<!-- TERMINAL ABOUT — SVG custom -->
+<!-- TERMINAL ABOUT SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/terminal.svg" width="700"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
 
-## `$ ls ./skills`
+<!-- SKILLS HEADER SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_skills.svg" width="700"/>
+</div>
+
+<br/>
 
 ### 🛡️ Security & OS
 <p>
@@ -48,53 +57,73 @@
   <img src="https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=9b59b6" />
 </p>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
 
 <!-- HTB PROGRESS SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/htb_progress.svg" width="700"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
 
-<!-- CURRENTLY LEARNING SVG -->
+<!-- CPTS LEARNING SVG -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/cpts.svg" width="700"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `$ cat github_stats.json`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pagarkristian&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagarkristian&theme=midnight-purple&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagarkristian&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6" />
-</p>
-
-<!-- SIGMA GIF -->
+<!-- PULSE DIVIDER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMAMAN.gif"/>
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- STATS HEADER SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_stats.svg" width="700"/>
+</div>
 
-<!-- RANDOM HACKING QUOTE -->
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pagarkristian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagarkristian&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagarkristian&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+</p>
+
+<!-- SIGMA MAN GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMAMAN.gif" width="350"/>
+</div>
+
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
+
+<!-- RANDOM QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- PULSE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
 
-## `$ whoami --connect`
+<!-- CONNECT HEADER SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/header_connect.svg" width="700"/>
+</div>
+
+<br/>
 
 <p align="left">
   <a href="mailto:akunkerja23128@gmail.com">
@@ -108,11 +137,17 @@
   </a>
 </p>
 
-<!-- FOOTER -->
+<!-- PULSE DIVIDER -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/divider_pulse.svg" width="100%"/>
+</div>
 
-```
-"The quieter you become, the more you are able to hear." — Kali Linux
-```
+<!-- STARLIGON SIGNATURE BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/starligon_banner.svg" width="700"/>
+</div>
 
+<!-- FOOTER QUOTE SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/footer_quote.svg" width="700"/>
 </div>
