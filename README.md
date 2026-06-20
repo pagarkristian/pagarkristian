@@ -80,7 +80,7 @@
 
 <!-- SIGMA GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMA MAN"/>
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/SIGMA MAN.mp4"/>
 </div>
 
 <!-- ANIMATED DIVIDER -->
