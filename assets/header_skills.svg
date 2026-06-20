@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="40" viewBox="0 0 700 40">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="700" height="40" rx="6" fill="#0d1117"/>
+  <rect width="700" height="2" y="38" rx="0" fill="#9b59b6" opacity="0.6"/>
+  <text x="16" y="26" fill="#9b59b6" font-family="Courier New, monospace" font-size="15px" font-weight="bold" filter="url(#glow)">$ </text>
+  <text x="36" y="26" fill="#ffffff" font-family="Courier New, monospace" font-size="15px" font-weight="bold">ls ./skills</text>
+  
+</svg>
