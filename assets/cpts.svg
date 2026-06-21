@@ -30,10 +30,19 @@
   <text x="52" y="112" fill="#c0c0c0" font-family="Courier New, monospace" font-size="13px">Mode         : Self-study, no cert — pure knowledge</text>
 
   <!-- Progress bar label -->
-  <text x="20" y="138" fill="#c0c0c0" font-family="Courier New, monospace" font-size="12px">Progress</text>
-  <rect x="90" y="126" width="570" height="12" rx="3" fill="#1a1a2e"/>
-  <rect x="90" y="126" width="200" height="12" rx="3" fill="url(#progress-grad)">
-    <animate attributeName="width" from="0" to="200" dur="1.5s" fill="freeze"/>
-  </rect>
-  <text x="298" y="137" fill="#ffffff" font-family="Courier New, monospace" font-size="10px">~35%</text>
-</svg>
+<!-- Progress bar label -->
+<text x="20" y="138" fill="#c0c0c0" font-family="Courier New, monospace" font-size="12px">Progress</text>
+
+<rect x="90" y="126" width="570" height="12" rx="3" fill="#1a1a2e"/>
+
+<rect x="90" y="126" width="74" height="12" rx="3" fill="url(#progress-grad)">
+  <animate attributeName="width" from="0" to="74" dur="1.5s" fill="freeze"/>
+</rect>
+
+<text x="172"
+      y="137"
+      fill="#ffffff"
+      font-family="Courier New, monospace"
+      font-size="10px">
+  13%
+</text>
