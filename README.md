@@ -23,7 +23,7 @@
 
 <!-- TERMINAL ABOUT SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/terminl.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/pagarkristian/pagarkristian/main/assets/terminal.svg" width="700"/>
 </div>
 
 <br/><br/>
