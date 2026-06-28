@@ -53,7 +53,7 @@
 
   <!-- Line 6: HTB -->
   <text x="32" y="168" class="key">HTB</text>
-  <text x="90" y="168" class="val">: starligon2  |  12 machines pwned (1 Hard, 4 Medium, 7 Easy)</text>
+  <text x="90" y="168" class="val">: starligon2
 
   <!-- Line 7: Learning -->
   <text x="32" y="188" class="key">Learning</text>
