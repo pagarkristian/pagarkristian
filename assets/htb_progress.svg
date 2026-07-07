@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="250" viewBox="0 0 700 250">
+  <defs>
+
+    <filter id="glow-purple">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="bar-glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="bar-rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#b76ae3"/>
+      <stop offset="40%" style="stop-color:#8f87da"/>
+      <stop offset="70%" style="stop-color:#49b8c7"/>
+      <stop offset="100%" style="stop-color:#19d1b3"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="250" rx="10" fill="#0d1117"/>
+  <rect width="700" height="36" rx="10" fill="#161b22"/>
+  <rect y="26" width="700" height="10" fill="#161b22"/>
+
+  <!-- Window Buttons -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="350"
+        y="23"
+        text-anchor="middle"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    htb_progress.log
+  </text>
+
+  <!-- Platform -->
+  <text x="20" y="65"
+        fill="#50fa7b"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    [+]
+  </text>
+
+  <text x="50" y="65"
+        fill="#c0c0c0"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    Platform :
+  </text>
+
+  <text x="140" y="65"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold"
+        filter="url(#glow-purple)">
+    Hack The Box
+  </text>
+
+  <!-- Handle -->
+  <text x="20" y="85"
+        fill="#50fa7b"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    [+]
+  </text>
+
+  <text x="50" y="85"
+        fill="#c0c0c0"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    Handle :
+  </text>
+
+  <text x="140" y="85"
+        fill="#ffffff"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    starligon2
+  </text>
+
+  <!-- Machines -->
+  <text x="20" y="105"
+        fill="#50fa7b"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    [+]
+  </text>
+
+  <text x="50" y="105"
+        fill="#c0c0c0"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    Machines :
+  </text>
+
+  <text x="140" y="105"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    14 pwned
+  </text>
+
+  <!-- Easy -->
+  <text x="20"
+        y="135"
+        fill="#c0c0c0"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    Easy
+  </text>
+
+  <text x="75"
+        y="135"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    [
+  </text>
+
+  <rect x="85"
+        y="122"
+        width="350"
+        height="14"
+        rx="2"
+        fill="#1a1a2e"/>
+
+  <rect x="85"
+        y="122"
+        width="245"
+        height="14"
+        rx="2"
+        fill="url(#bar-rainbow)"
+        filter="url(#bar-glow)"/>
+
+  <text x="445"
+        y="135"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    ]
+  </text>
+
+  <text x="460"
+        y="135"
+        fill="#ffffff"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    8
+  </text>
+
+  <!-- Medium -->
+  <text x="20"
+        y="165"
+        fill="#c0c0c0"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    Medium
+  </text>
+
+  <text x="75"
+        y="165"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    [
+  </text>
+
+  <rect x="85"
+        y="152"
+        width="350"
+        height="14"
+        rx="2"
+        fill="#1a1a2e"/>
+
+  <rect x="85"
+        y="152"
+        width="70"
+        height="14"
+        rx="2"
+        fill="url(#bar-rainbow)"
+        filter="url(#bar-glow)"/>
+
+  <text x="445"
+        y="165"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    ]
+  </text>
+
+  <text x="460"
+        y="165"
+        fill="#ffffff"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    5
+  </text>
+
+  <!-- Hard -->
+  <text x="20"
+        y="195"
+        fill="#c0c0c0"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    Hard
+  </text>
+
+  <text x="75"
+        y="195"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    [
+  </text>
+
+  <rect x="85"
+        y="182"
+        width="350"
+        height="14"
+        rx="2"
+        fill="#1a1a2e"/>
+
+  <rect x="85"
+        y="182"
+        width="35"
+        height="14"
+        rx="2"
+        fill="url(#bar-rainbow)"
+        filter="url(#bar-glow)"/>
+
+  <text x="445"
+        y="195"
+        fill="#9b59b6"
+        font-family="Courier New, monospace"
+        font-size="13px">
+    ]
+  </text>
+
+  <text x="460"
+        y="195"
+        fill="#ffffff"
+        font-family="Courier New, monospace"
+        font-size="13px"
+        font-weight="bold">
+    1
+  </text>
+
+  <!-- Footer -->
+  <text x="20"
+        y="230"
+        fill="#6c757d"
+        font-family="Courier New, monospace"
+        font-size="12px">
+    [*] Writeups → https://purgatorie.pythonanywhere.com/ | Still grinding... more machines incoming.
+  </text>
+
+</svg>
